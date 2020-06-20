@@ -1,0 +1,10 @@
+E:\own\C#课程\The4class\The4class\bin\Debug\The4class.exe.config
+E:\own\C#课程\The4class\The4class\bin\Debug\The4class.exe
+E:\own\C#课程\The4class\The4class\bin\Debug\The4class.pdb
+E:\own\C#课程\The4class\The4class\obj\Debug\The4class.csprojAssemblyReference.cache
+E:\own\C#课程\The4class\The4class\obj\Debug\The4class.Form1.resources
+E:\own\C#课程\The4class\The4class\obj\Debug\The4class.Properties.Resources.resources
+E:\own\C#课程\The4class\The4class\obj\Debug\The4class.csproj.GenerateResource.cache
+E:\own\C#课程\The4class\The4class\obj\Debug\The4class.csproj.CoreCompileInputs.cache
+E:\own\C#课程\The4class\The4class\obj\Debug\The4class.exe
+E:\own\C#课程\The4class\The4class\obj\Debug\The4class.pdb
